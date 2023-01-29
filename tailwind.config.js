@@ -2,7 +2,8 @@
 module.exports = {
   content: [
     "./src/App.js",
-    "./src/components/Form.jsx"
+    "./src/components/Form.jsx",
+    "./src/components/Dropdown.jsx"
   ],
   theme: {
     extend: {},
