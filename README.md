@@ -1,3 +1,7 @@
+Link: https://gleaming-parfait-136883.netlify.app/
+
+Built with ReactJS and TailwindCSS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
